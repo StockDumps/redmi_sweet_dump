@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.210908.001 V13.0.17.0.SKFEUXM release-keys
+- manufacturer: xiaomi
+- platform: sm6150
+- codename: sweet
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.210908.001
+- incremental: V13.0.17.0.SKFEUXM
+- tags: release-keys
+- fingerprint: Redmi/sweet_eea/sweet:12/RKQ1.210614.002/V13.0.17.0.SKFEUXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-12-SKQ1.210908.001-V13.0.17.0.SKFEUXM-release-keys
+- repo: redmi_sweet_dump
